@@ -1,0 +1,6 @@
+ECMAScript中的基本数据类型包括undefined null Number Boolean String 
+与其他语言不同ECMAScript没有整型和浮点型NUmber类型剋以用来表示所有类型
+ECMACScript中有一种复杂的数据类型，object类型，该类型是这门语言中所有对象的基础类型
+实际上未指定返回值的是一种特殊的undefined值
+可以向ECMACScript函数传递任意数量的参数，并可以通过arguments对象来访问这些参数
+由于不从在函数签名特性，ECMAScript函数不能重载
